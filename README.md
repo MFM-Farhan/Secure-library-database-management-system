@@ -28,17 +28,17 @@ The system models the operations of a library, covering:
 
 
 
-## 🧠 Learning Outcomes
+## Learning Outcomes
 
 - Applied relational database theory to real-world scenarios
 - Implemented complex SQL constructs (views, triggers, procedures)
 - Conducted database security assessments and implemented mitigation strategies
 
-## 👤 Author
+## Author
 
 **Farhan**  
 Cybersecurity Undergraduate, SLIIT University
 
-## 📜 License
+## License
 
 This project is for academic purposes. You may refer to or build upon it with proper credit.
